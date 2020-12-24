@@ -1,0 +1,5 @@
+com\bestbuy\api\info\CategoriesTest.class
+com\bestbuy\api\info\ProductsTest.class
+com\bestbuy\api\info\StoresTest.class
+com\bestbuy\api\testbase\TestBase.class
+com\bestbuy\api\info\ServicesTest.class
